@@ -6,4 +6,7 @@ http://nlp.seas.harvard.edu/annotated-transformer/
 http://jalammar.github.io/illustrated-transformer/  
 Attention:  
 https://machinelearningmastery.com/the-attention-mechanism-from-scratch/  
+Paper for attention:  
+https://arxiv.org/pdf/1409.0473.pdf  
+
 
